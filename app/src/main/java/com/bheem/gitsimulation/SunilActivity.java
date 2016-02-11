@@ -13,5 +13,7 @@ public class SunilActivity extends AppCompatActivity {
         System.out.println("Sunil ACtivity loaded");
 
         System.out.println("In Sunil branch >> After Sunil ACtivity loaded >> Commit 1");
+
+        System.out.println("In Sunil branch >> After Sunil ACtivity loaded >> Commit 2");
     }
 }
