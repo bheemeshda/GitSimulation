@@ -91,6 +91,8 @@ public class FullscreenActivity extends AppCompatActivity {
 
         System.out.println("Bheemesh Fullscreen activity");
 
+        System.out.println("Bheemesh Fullscreen activity created");
+
         mVisible = true;
         mControlsView = findViewById(R.id.fullscreen_content_controls);
         mContentView = findViewById(R.id.fullscreen_content);
