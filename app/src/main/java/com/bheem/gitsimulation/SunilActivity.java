@@ -11,5 +11,11 @@ public class SunilActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sunil);
 
         System.out.println("Sunil ACtivity loaded");
+
+        System.out.println("In Sunil branch >> After Sunil ACtivity loaded >> Commit 1");
+
+        System.out.println("In Sunil branch >> After Sunil ACtivity loaded >> Commit 2");
+
+        System.out.println("In Sunil branch >> After Sunil ACtivity loaded >> Commit 3");
     }
 }
