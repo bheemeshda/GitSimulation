@@ -89,9 +89,7 @@ public class FullscreenActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_fullscreen);
 
-        System.out.println("Bheemesh Fullscreen activity");
-
-        System.out.println("Bheemesh Fullscreen activity created");
+        System.out.println("FullScreen Activity : Bheem : First commit");
 
         mVisible = true;
         mControlsView = findViewById(R.id.fullscreen_content_controls);
